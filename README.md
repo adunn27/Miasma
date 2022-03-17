@@ -1,6 +1,4 @@
-<p align="center">
-    <img alt="Miasma" src="MiasmaLogo.png" />
-</p>
+<img alt="Miasma" src="MiasmaLogoCropped.png">
 
 #
 
